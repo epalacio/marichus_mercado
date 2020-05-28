@@ -3627,6 +3627,7 @@ input, select, textarea {
 				margin-bottom: 0;
 				padding-left: 0;
 				padding-top: 3rem;
+				min-width: 330px;
 			}
 
 	}
