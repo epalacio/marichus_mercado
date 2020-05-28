@@ -3488,11 +3488,13 @@ input, select, textarea {
 				box-shadow: 1px 1px 25px #000;
 				background-color: #fff;
 				justify-self: center;
+				max-width: 86vw;
 			}
 
 				.gallery > .product-card img {
 					border-radius: 35px;
 					margin: auto;
+					max-width: 100%;
 				}
 
 				.gallery > .product-card > .product-card-details {
